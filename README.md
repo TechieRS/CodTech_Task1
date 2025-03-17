@@ -46,7 +46,7 @@ Hello, this is a test file.
 This project is open-source and available under the MIT License.
 
 ## Author
-- GitHub: [Your GitHub Username](https://github.com/TechieRS)
+- GitHub: [GitHub](https://github.com/TechieRS)
 
 Feel free to contribute or report issues!
 
